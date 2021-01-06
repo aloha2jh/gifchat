@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "antd": "^4.3.5",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "color-hash": "^1.0.3",
     "connect-flash": "^0.1.1",
     "cookie-parser": "^1.4.4",
